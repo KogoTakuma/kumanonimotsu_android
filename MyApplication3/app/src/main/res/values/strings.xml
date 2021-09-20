@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="tab_text_1">A101</string>
+    <string name="tab_text_2">A102</string>
+    <string name="tab_text_3">A103</string>
+    <string name="tab_text_4">A104</string>
+    <string name="tab_text_5">A105</string>
+    <string name="tab_text_6">A106</string>
+    <string name="tab_text_7">A107</string>
+    <string name="tab_text_8">A108</string>
+    <string name="tab_text_9">A109</string>
+    <string name="tab_text_10">A110</string>
+    <string name="tab_text_11">A111</string>
+    <string name="tab_text_12">一覧</string>
+</resources>

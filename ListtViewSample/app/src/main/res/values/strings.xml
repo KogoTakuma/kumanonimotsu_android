@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewSample</string>
+
+    <string name="dialog_title">荷物登録確認</string>
+    <string name="dialog_msg">この寮生に荷物を登録しますか？</string>
+    <string name="dialog_btn_ok">登録</string>
+    <string name="dialog_btn_ng">キャンセル</string>
+    <string name="dialog_ok_toast">登録しました</string>
+    <string name="dialog_ng_toast">キャンセルしました</string>
+
+</resources>

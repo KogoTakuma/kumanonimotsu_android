@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uketori</string>
+    <string name="tab_text_1">A1</string>
+    <string name="tab_text_2">A2</string>
+    <string name="tab_text_3">A3</string>
+    <string name="tab_text_4">A4</string>
+    <string name="tab_text_5">B12</string>
+    <string name="tab_text_6">B3</string>
+    <string name="tab_text_7">B4</string>
+    <string name="tab_text_8">C12</string>
+    <string name="tab_text_9">C34</string>
+    <string name="tab_text_10">臨キャ</string>
+    <string name="tab_text_11">A2</string>
+    <string name="tab_text_12">A2</string>
+</resources>
